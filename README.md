@@ -1,3 +1,18 @@
+
+This project contains redux integration and React-navigation with TabNavigator.
+
+when you type below command, you can see QRcode and url which can used in Expo App.
+
+```
+npm start
+```
+see  [Expo](https://docs.expo.io/versions/latest/introduction/installation.html) and install XDE or Mobile Application.
+
+when you scan QRcode or input url, you have to access by same local network.
+
+
+==============================
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
